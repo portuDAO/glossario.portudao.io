@@ -9,3 +9,7 @@ coverY: 0
 Consulte esta base de conhecimento dos termos mais utilizados pela comunidade que lida com criptomoedas, tokens e outros criptoativos perante uma organização descentralizada e autónoma.
 
 À medida que novas palavras ou conceitos vão tendo as suas definições aprovadas, serão adicionadas a este Glossário.
+
+{% hint style="danger" %}
+Atenção que este conteúdo ainda está em desenvolvimento e todos os termos são apenas TESTES. Deixará de o ser na remoção deste aviso.
+{% endhint %}
