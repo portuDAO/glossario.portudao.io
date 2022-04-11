@@ -8,15 +8,20 @@ coverY: 0
 
 ## Definição
 
-Texto da definição aqui a ocupar um ou dois parágrafos.
+Token que mantêm o seu preço estável, correlacionado com uma determinada moeda fiduciária.
 
 <details>
 
 <summary>Definição detalhada</summary>
 
-Texto com uma definição mais detalhada aqui, com vários parágrafos.
+Uma stablecoin é um token que segue o preço de determinada moeda fiduciária ou commodity.
 
-Pode conter tabelas, imagens, links.
+Essencialmente existem dois tipos de stablecoins:
+
+* Lastreadas no asset que representam ou nalguma criptomoeda
+* Algorítmicas
+
+Exemplos: DAI, USDC, USDT, PAX GOLD
 
 </details>
 
@@ -25,5 +30,5 @@ Pode conter tabelas, imagens, links.
 {% endhint %}
 
 {% hint style="info" %}
-**Relacionados**: [Criptomoeda](criptomoeda.md)
+**Relacionados**: [Criptomoeda](criptomoeda.md); Token
 {% endhint %}
